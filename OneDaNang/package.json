@@ -1,0 +1,40 @@
+{
+  "name": "OneDaNang",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express-formidable": "^1.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.2.0",
+    "react-native": "0.51.0",
+    "react-native-draftjs-render": "^2.3.0",
+    "react-native-elements": "^0.18.5",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-material-dropdown": "^0.6.1",
+    "react-native-multi-select": "^0.1.1",
+    "react-native-multiple-select": "^0.3.0",
+    "react-native-multiple-select-list": "^1.0.4",
+    "react-native-photo-upload": "^1.1.1",
+    "react-native-richtext-editor": "^0.1.12",
+    "react-native-select-multiple": "^1.2.0",
+    "react-native-selectme": "^1.2.3",
+    "react-native-vector-icons": "^4.4.3",
+    "react-native-zss-rich-text-editor": "^1.0.2",
+    "react-navigation": "^1.0.0-beta.22",
+    "react-select": "^1.1.0",
+    "react-virtualized-select": "^3.1.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.0.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.0.4",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

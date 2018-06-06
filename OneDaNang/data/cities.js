@@ -1,0 +1,20 @@
+export const City =  [
+  {  value: 'Abilene' },
+  {  value: 'Addison' },
+  {  value: 'Akron' },
+  {  value: 'Alameda' },
+  {  value: 'Albany' },
+  {  value: 'Albany' },
+  {  value: 'Albany' },
+  {  value: 'Albuquerque' },
+  {  value: 'Alexandria' },
+  {  value: 'Alexandria' },
+  {  value: 'Alhambra' },
+  {  value: 'Aliso Viejo' },
+  {  value: 'Allen' },
+  {  value: 'Allentown' },
+  {  value: 'Alpharetta' },
+  {  value: 'Altamonte Springs' },
+  {  value: 'Altoona' },
+
+];
