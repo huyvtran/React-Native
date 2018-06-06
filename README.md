@@ -14,5 +14,9 @@ Facebook:
 ```
 fb.com/nguyenhoangsonit
 ```
+App tham khảo:
+```
+https://github.com/ReactNativeNews/React-Native-Apps
+```
 
 
