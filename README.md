@@ -1,2 +1,4 @@
 # React Native
-# Made by NguyenHoangSon
+# Made by NguyenHoangSon 
+son_hoang@yahoo.com 
+fb.com/nguyenhoangsonit
